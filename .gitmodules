@@ -1,0 +1,3 @@
+[submodule "src/libpebliss"]
+	path = src/libpebliss
+	url = https://github.com/asinbow/libpebliss.git
